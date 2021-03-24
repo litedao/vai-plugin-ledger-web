@@ -1,4 +1,4 @@
-# dai-plugin-ledger-web
+# vai-plugin-ledger-web
 
 A [Dai.js][daijs] plugin for using Ledger in a browser environment.
 
